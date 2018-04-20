@@ -12,8 +12,8 @@ __this also mean Bold__
 
 
 
-_I have learned how to use **Markdown**. when I use ~"strike"~ to strikethrough thing it will strikeout what ever I want. Know what I have learn with Dane,I will be able to use this in the real world.
+_I have learned how to use **Markdown**. when I use ~"strike"~ to strikethrough thing it will strikeout what ever I want. Know what I have learn with Dane,I will be able to use this in the real world._
 
 
 
-_ 
+ 
