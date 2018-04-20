@@ -1,8 +1,19 @@
-# this an header 1 tag
-## This is an header 2 tag
-###### this is an header 6 tag 
 
-**This text will be Bold**
-_This will also be italic_
+**This mean Bold**
 
-_I have learned how to use **Markdown** with Dane._ 
+*mean italic*
+
+_This also mean italics_
+
+__this also mean Bold__
+
+~~this mean strikethrough~~
+ 
+
+
+
+_I have learned how to use **Markdown**. when I use ~"strike"~ to strikethrough thing it will strikeout what ever I want. Know what I have learn with Dane,I will be able to use this in the real world.
+
+
+
+_ 
